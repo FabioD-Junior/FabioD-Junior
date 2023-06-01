@@ -1,12 +1,12 @@
-# Hi there! Fabio here! ![party parrot](partyparrot.gif)
+# Hi there! Fabio here! ![party parrot](aussieparrot.gif)
 
 <hr>
 
 > I am an A.I. post-graduation student and an experienced system analyst for the financial sector (experience in banks and exchanges) by designing solutions, developing programs as Sr Cobol code, and leading a multi-skilled team as a tech lead.
 
-> Now  I am pursuing a career change to the A.I. world, hope
+> Now  I am pursuing a career change to the A.I. world, programming in python and eating books about statistics and mathematicss ( =s ).
 
-> I am starting a youtube channel to share my discoveries in data science as well as a blog/medium to share knowledge called sigma squared.
+> I am also starting a youtube channel to share my discoveries in data science as well as a blog/medium to share knowledge called sigma squared.
 
 > You can reach me by mail at fabiojr@skiff.com or sigmasquared@skiff.com
 
@@ -24,6 +24,9 @@
 # Thank you for visiting and don't forget to party with parrots!
 ![party parrot](partyparrot.gif)
 
+<hr>
+
+ > <sub> Find more party parrots [here](https://cultofthepartyparrot.com/), all the birds here are from there. =] </sub> 
 <!--
 **FabioD-Junior/FabioD-Junior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
