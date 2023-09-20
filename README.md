@@ -18,8 +18,28 @@
 
 | Project | Description | Status |
 |------|-------|-------|
-| SigmaSquared | Share Knowledge about A.I. through videos and articles. | -[x] In progress|
-| Slotermeyer  | Lib for Speedup EDA process for Kagglers analyzing data through EDA and descriptive analysis in the Jupyter environment.    |-[x] Alpha Private Version |
+| Kitai Hakai  | A simple chat-bot for telegram, light and customizable | -[x] beta version available
+| SigmaSquared | A repository keep the sourcecodes from my channel project to share knowledge about A.I. through videos and articles. | -[ ] In progress|
+| Slotermeyer  | Python Lib for speeding up EDA process. For Kagglers analyzing data through EDA and descriptive analysis in the Jupyter environment.    |-[x] Alpha Private Version |
+
+
+### Sample of the current state of Slotermeyer Lib :
+From a pandas dataframe you can, with a simple command, generate a report on your data organized into sessions and tabs.
+Summary, Numerical data, and Categorical data, proving information and graphs using descriptive analysis techniques.
+This and many more functions
+
+This way, the user can have information about their data with just a few lines of code, organized in a cleaner way within the Jupyter notebook.
+Instead of having to scroll through pages and pages, the user uses tabs and sections that are organized by features.
+
+#### Summary of the dataset (using Kaggle Titanic dataset for testing)
+![Slotermeyer_summary](Slotermeyer_summary.png)
+
+#### Describing numerical features:
+![Slotermeyer_numeric_features](Slotermeyer_numeric_features.png)
+
+#### Prototype of an interactive Scatterplot:
+![Slotermeyer_interactive_scatterplot](Slotermeyer_interactive_scatterplot.png)
+
 
 # Thank you for visiting and don't forget to party with parrots!
 ![party parrot](partyparrot.gif)
