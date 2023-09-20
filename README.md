@@ -19,7 +19,7 @@
 | Project | Description | Status |
 |------|-------|-------|
 | Kitai Hakai  | A simple chat-bot for telegram, light and customizable | -[x] beta version available
-| SigmaSquared | A repository keep the sourcecodes from my channel project to share knowledge about A.I. through videos and articles. | -[ ] In progress|
+| SigmaSquared | A repository for keeping the source codes from my channel project to share knowledge about A.I. through videos and articles. | -[ ] In progress|
 | Slotermeyer  | Python Lib for speeding up EDA process. For Kagglers analyzing data through EDA and descriptive analysis in the Jupyter environment.    |-[x] Alpha Private Version |
 
 
