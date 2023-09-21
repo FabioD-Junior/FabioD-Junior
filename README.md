@@ -1,4 +1,6 @@
-# Hi there! Fabio here! ![party parrot](aussieparrot.gif)
+# Hi there, Fabio here 
+![party parrot](aussieparrot.gif)
+
 
 <hr>
 
@@ -26,7 +28,7 @@
 ### Sample of the current state of Slotermeyer Lib :
 From a pandas dataframe you can, with a simple command, generate a report on your data organized into sessions and tabs.
 Summary, Numerical data, and Categorical data, proving information and graphs using descriptive analysis techniques.
-This and many more functions
+Theses and many more functions for univariate and multivariate analysis, time-series analysis, and much more.
 
 This way, the user can have information about their data with just a few lines of code, organized in a cleaner way within the Jupyter notebook.
 Instead of having to scroll through pages and pages, the user uses tabs and sections that are organized by features.
@@ -34,7 +36,7 @@ Instead of having to scroll through pages and pages, the user uses tabs and sect
 #### Summary of the dataset (using Kaggle Titanic dataset for testing)
 ![Slotermeyer_summary](Slotermeyer_summary.png)
 
-#### Describing numerical features:
+#### Describing numerical features using Univariate analysis:
 ![Slotermeyer_numeric_features](Slotermeyer_numeric_features.png)
 
 #### Prototype of an interactive Scatterplot:
