@@ -14,13 +14,13 @@
 
 <hr>
 
-## It is my humble repository. I  hope you can find something useful.
+<h2> It is my humble repository. I  hope you can find something useful.</h2>
 
-### I am currently working on the following projects:
+<h3> I am currently working on the following projects:</h3>
 
 | Project | Description | Status |
 |------|-------|-------|
-| Kitai Hakai  | A simple chat-bot for telegram, light and customizable | -[x] beta version available
+| [Kitai Hakai](https://github.com/FabioD-Junior/Kitai)  | A simple chat-bot for telegram, light and customizable | -[x] beta version available
 | SigmaSquared | A repository for keeping the source codes from my channel project to share knowledge about A.I. through videos and articles. | -[ ] In progress|
 | Slotermeyer  | Python Lib for speeding up EDA process. For Kagglers analyzing data through EDA and descriptive analysis in the Jupyter environment.    |-[x] Alpha Private Version |
 
