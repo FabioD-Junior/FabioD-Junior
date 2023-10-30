@@ -21,9 +21,9 @@
 | Project | Description | Status |
 |------|-------|-------|
 | [Kitai Hakai](https://github.com/FabioD-Junior/Kitai)  | A simple chat-bot for telegram, light and customizable | -[x] beta version available
-| SigmaSquared | A repository for keeping the source codes from my channel project to share knowledge about A.I. through videos and articles. | -[ ] In progress|
+| [COVID-19 Detection](https://github.com/FabioD-Junior/Covid-19-CNN)  | Detects COVID-19 in lung X-rays using Convolutional Neural Networks. This is an improved version of parts of a college group project I participated in. I extracted the parts I worked on and reworked the code to optimize it and focus on detection via CNN. | -[x] Jupyter Notebook finished
 | Slotermeyer  | Python Lib for speeding up EDA process. For Kagglers analyzing data through EDA and descriptive analysis in the Jupyter environment.    |-[x] Alpha Private Version |
-
+| SigmaSquared | A repository for keeping the source codes from my channel project to share knowledge about A.I. through videos and articles. | -[ ] In progress|
 
 ### Sample of the current state of Slotermeyer Lib :
 From a pandas dataframe you can, with a simple command, generate a report on your data organized into sessions and tabs.
