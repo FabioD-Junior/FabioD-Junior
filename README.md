@@ -6,8 +6,10 @@
 
 > I am an A.I. post-graduation student and an experienced system analyst for the financial sector (experience in banks and exchanges) by designing solutions, developing programs as Sr Cobol code, and leading a multi-skilled team as a tech lead.
 
-> Now  I am pursuing a career change to the A.I. world, programming in python and eating books about statistics and mathematicss ( =s ).
+> Now  I am pursuing a career change to the A.I. world, programming in python and eating books about statistics and mathematicss.
 
+> I am currently working on a private personal project building a python lib for helping EDA in Jupyter notebook environments.
+  
 > I am also starting a youtube channel to share my discoveries in data science as well as a blog/medium to share knowledge called sigma squared.
 
 > You can reach me by mail at fabiojr@skiff.com or sigmasquared@skiff.com
@@ -25,7 +27,7 @@
 | Slotermeyer  | Python Lib for speeding up EDA process. For Kagglers analyzing data through EDA and descriptive analysis in the Jupyter environment.    |-[x] Alpha Private Version |
 | SigmaSquared | A repository for keeping the source codes from my channel project to share knowledge about A.I. through videos and articles. | -[ ] In progress|
 
-### Sample of the current state of Slotermeyer Lib :
+<h3> Sample of the current state of Slotermeyer Lib :</h3>
 From a pandas dataframe you can, with a simple command, generate a report on your data organized into sessions and tabs.
 Summary, Numerical data, and Categorical data, proving information and graphs using descriptive analysis techniques.
 Theses and many more functions for univariate and multivariate analysis, time-series analysis, and much more.
@@ -33,17 +35,22 @@ Theses and many more functions for univariate and multivariate analysis, time-se
 This way, the user can have information about their data with just a few lines of code, organized in a cleaner way within the Jupyter notebook.
 Instead of having to scroll through pages and pages, the user uses tabs and sections that are organized by features.
 
-#### Summary of the dataset (using Kaggle Titanic dataset for testing)
+<h3>Summary of the dataset (using Kaggle Titanic dataset for testing)</h3>
+
 ![Slotermeyer_summary](Slotermeyer_summary.png)
 
-#### Describing numerical features using Univariate analysis:
+<h3> Describing numerical features using Univariate analysis:</h3>
+
 ![Slotermeyer_numeric_features](Slotermeyer_numeric_features.png)
 
-#### Prototype of an interactive Scatterplot:
+<h3>Prototype of an interactive Scatterplot:</h3>
+
 ![Slotermeyer_interactive_scatterplot](Slotermeyer_interactive_scatterplot.png)
 
 
-# Thank you for visiting and don't forget to party with parrots!
+
+<h3>Thank you for visiting and don't forget to party with parrots!</h3>
+
 ![party parrot](partyparrot.gif)
 
 <hr>
