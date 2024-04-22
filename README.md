@@ -22,6 +22,7 @@
 
 | Project | Description | Status |
 |------|-------|-------|
+|[Airbot (DRL Stock Trading bot platform)](https://github.com/FabioD-Junior/airbot)|Final Academic project of my postgraduate degree in artificial intelligence where we explored several state-of-the-art AI techniques such as Deep Reinforcement Learning and Retrieval-Augmented Generation (RAG) to produce a proof-of-concepan for an automated stock trading platform where the system itself takes buying, selling and portfolio management on your behalf.|[x] Finihsed, but some of the repositories are private due the security of credentials and our data|
 | [Kitai Hakai](https://github.com/FabioD-Junior/Kitai)  | A simple chat-bot for telegram, light and customizable | -[x] beta version available
 | [COVID-19 Detection](https://github.com/FabioD-Junior/Covid-19-CNN)  | Detects COVID-19 in lung X-rays using Convolutional Neural Networks. This is an improved version of parts of a college group project I participated in. I extracted the parts I worked on and reworked the code to optimize it and focus on detection via CNN. | -[x] Jupyter Notebook finished
 | Slotermeyer  | Python Lib for speeding up EDA process. For Kagglers analyzing data through EDA and descriptive analysis in the Jupyter environment.    |-[x] Alpha Private Version |
