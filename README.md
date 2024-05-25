@@ -1,6 +1,10 @@
 # Hi there, Fabio here 
 ![party parrot](aussieparrot.gif)
 
+<details>
+  <summary>Detalhes</summary>
+  Aqui estão mais informações detalhadas.
+</details>
 
 <hr>
 
@@ -19,6 +23,7 @@
 <h2> It is my humble repository. I  hope you can find something useful.</h2>
 
 <h3> I am currently working on the following projects:</h3>
+
 > (Please, remember to take a look in my capstone project)
 
 <hr>
