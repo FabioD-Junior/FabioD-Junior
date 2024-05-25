@@ -19,6 +19,9 @@
 <h2> It is my humble repository. I  hope you can find something useful.</h2>
 
 <h3> I am currently working on the following projects:</h3>
+> (Please, remember to take a look in my capstone project)
+
+<hr>
 
 | Project | Description | Status |
 |------|-------|-------|
@@ -27,6 +30,18 @@
 | [COVID-19 Detection](https://github.com/FabioD-Junior/Covid-19-CNN)  | Detects COVID-19 in lung X-rays using Convolutional Neural Networks. This is an improved version of parts of a college group project I participated in. I extracted the parts I worked on and reworked the code to optimize it and focus on detection via CNN. | -[x] Jupyter Notebook finished
 | Slotermeyer  | Python Lib for speeding up EDA process. For Kagglers analyzing data through EDA and descriptive analysis in the Jupyter environment.    |-[x] Alpha Private Version |
 | SigmaSquared | A repository for keeping the source codes from my channel project to share knowledge about A.I. through videos and articles. | -[ ] In progress|
+
+<hr>
+
+<h3>  This is a preview of my capstone project back-end where I am testing different models through trading historical data.</h3>
+
+- This is not the final interface, just for back-end testing.
+- This one is made using Gradio but my team and I built a  responsive web platform using reace.js 
+>  Please refer to the Airbot repository to find all the sources for the project and the paper-like final report
+
+![brainSimulator](simulator.png)
+
+<hr>
 
 <h3> Sample of the current state of Slotermeyer Lib :</h3>
 From a pandas dataframe you can, with a simple command, generate a report on your data organized into sessions and tabs.
