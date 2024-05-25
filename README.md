@@ -1,10 +1,6 @@
 # Hi there, Fabio here 
 ![party parrot](aussieparrot.gif)
 
-<details>
-  <summary>Detalhes</summary>
-  Aqui estão mais informações detalhadas.
-</details>
 
 <hr>
 
