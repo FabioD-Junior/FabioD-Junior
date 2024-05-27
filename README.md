@@ -18,7 +18,7 @@
 
 <h2> It is my humble repository. I  hope you can find something useful.</h2>
 
-<h3> I am currently working on the following projects:</h3>
+<h3> Here are some of my current projects:</h3>
 
 > (Please, remember to take a look in my capstone project)
 
