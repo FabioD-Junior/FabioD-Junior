@@ -4,7 +4,7 @@
 
 <hr>
 
-> I am an A.I. post-graduated and an experienced system analyst for the financial sector (experience in banks and exchanges) by designing solutions, developing programs as Sr Cobol code, and leading a multi-skilled team as a tech lead.
+> I am an A.I. post-graduated and an experienced system analyst ( working in financial sector, banks,  and exchanges) by designing solutions, developing programs as Sr Cobol code, and leading a multi-skilled team as a tech lead.
 
 > Now  I am pursuing a career change to the A.I. world, programming in python and eating books about statistics and mathematicss.
 
