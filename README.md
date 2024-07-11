@@ -12,7 +12,7 @@
   
 > I am also starting a youtube channel to share my discoveries in data science as well as a blog/medium to share knowledge called sigma squared.
 
-> You can reach me by mail at fabiojr@skiff.com or sigmasquared@skiff.com
+> You can reach me by mail at fabio_jr@pm.me <- 
 
 <hr>
 
